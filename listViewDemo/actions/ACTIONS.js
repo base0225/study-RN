@@ -1,0 +1,9 @@
+/**
+ */
+
+
+export const LIST_DATA_LOADING = 'LIST_DATA_LOADING';
+export const LIST_DATA_DONE = 'LIST_DATA_DONE';
+export const LIST_DATA_ADDRESS = 'LIST_DATA_ADDRESS'; //地址
+export const LIST_DATA_INVOICE = 'LIST_DATA_INVOICE'; //发票
+export const LIST_DATA_TRAVELLER = 'LIST_DATA_TRAVELLER'; //常旅
